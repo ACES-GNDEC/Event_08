@@ -6,7 +6,8 @@ An event “Brains Out!” a quiz event organized by Association of Civil Engine
 
 
 ## Winners
-|Name |Uni. Roll. No| Year|Branch|Position|
+|Name |Uni. Roll. No|Year |Branch|Position|
+|-----|-------------|-----|------|--------|
 |Atul Singh |1805949 |D2|CSE|FIRST|
 |Harshit Arora |1707016 |D3|ME|SECOND|
 |Devansh Bhushan |1805167 |D2|CSE|THIRD|
